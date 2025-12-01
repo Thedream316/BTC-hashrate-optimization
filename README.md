@@ -16,7 +16,7 @@ Usage:
 
 Edit config variables (e.g., IP, ranges, duration) as needed.
 Run: python3 bitaxe_focused_tuner.py.
-Monitor output and dashboard (http://192.168.1.19/).
+Monitor output and dashboard Your Rigs IP.
 At end, view the plot and apply best settings.
 
 Example Output (from your run):
